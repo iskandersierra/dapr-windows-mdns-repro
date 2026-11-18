@@ -1,0 +1,7 @@
+/wifi-test-*/
+/official-run*/
+/__pycache__/
+*.log
+*.exe
+*.etl
+*.pcap*
